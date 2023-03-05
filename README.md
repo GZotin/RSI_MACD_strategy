@@ -51,7 +51,7 @@ Will be disposed three scripts (main.py, keys.py and time_set.py). The first one
 It's necessary to create an API from your Binance Account and then replace your API key and secret key in the file "keys.py". When you run the main.py script, it will use these keys to connect into your Binance account.
 
 ### Selection of the currency symbol
-Select the symbol of a currency that you have interest in.
+Select the symbol of a currency that you have interest in. 
 
 ### Obtaining the data from candlesticks
 If you run the script, the data will be obtained automatically. If you would like to use a different source of data, it's possible.
@@ -79,7 +79,7 @@ Here is a run done in 05 mars 2023 17h24 (GMT +01). I used "1HOUR" as the time f
 
 ![RSI and MACD Plots](Figure_1_pequena_reta.png)
 
-Each "x" are signals or confirmations points. The greens for buy and the reds for sell.
+Each **x** are signals or confirmations points. The greens for buy and the reds for sell.
 
 ### Output
 ---------- Operations Records ----------
